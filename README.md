@@ -5,7 +5,7 @@ cnb
 http://imgsrc.baidu.com/forum/w%3D580/sign=24021df3d4ca7bcb7d7bc7278e096b3f/0623107adab44aed787f9ad4b01c8701a18bfb8c.jpg)
 
 CNB
-CNB*s Not Bitcoin
+CNB's Not Bitcoin
 
 
 这是一种安全的虚拟货币，没有人能够非法获取其它人的CNB。
@@ -29,4 +29,4 @@ CNB*s Not Bitcoin
 
 为了节能，白皮书到此结束。
 
-
+项目捐助 ： 1BfXayW2vrj6uRpoZg3nR8rMEckLpGmaiL
